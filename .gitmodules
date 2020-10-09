@@ -1,0 +1,6 @@
+[submodule "macOS-Simple-KVM"]
+	path = macOS-Simple-KVM
+	url = git@github.com:foxlet/macOS-Simple-KVM.git
+[submodule "OSX-KVM"]
+	path = OSX-KVM
+	url = git@github.com:kholia/OSX-KVM.git
